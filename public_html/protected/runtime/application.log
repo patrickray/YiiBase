@@ -1,0 +1,1210 @@
+2013/08/04 21:36:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/admin".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('user/admin')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=//index.php?r=user/admin
+---
+2013/08/04 21:36:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "user/admin".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('user/admin')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=user/admin
+---
+2013/08/04 22:28:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:28:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:28:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:28:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:28:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:28:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:29:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:29:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:29:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:29:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:29:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:29:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:29:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:29:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:29:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:30:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:30:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:30:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:30:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:30:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:30:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:32:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:32:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:32:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/04 22:32:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 09:57:31 [error] [exception.CException] exception 'CException' with message 'Property "AuthWebUser.admins" is not defined.' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CComponent.php:173
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/auth/CWebUser.php(154): CComponent->__set('admins', Array)
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/YiiBase.php(220): CWebUser->__set('admins', Array)
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CModule.php(386): YiiBase::createComponent(Array)
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CModule.php(103): CModule->getComponent('user')
+#4 /var/www/sites/yiitest.com/public_html/protected/views/layouts/main.php(35): CModule->__get('user')
+#5 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(126): require('/var/www/sites/...')
+#6 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/sites/...', Array, true)
+#7 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/var/www/sites/...', Array, true)
+#8 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#9 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#10 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(206): COutputProcessor->run()
+#11 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#12 /var/www/sites/yiitest.com/public_html/protected/views/layouts/column1.php(6): CBaseController->endContent()
+#13 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(126): require('/var/www/sites/...')
+#14 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/sites/...', Array, true)
+#15 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(784): CBaseController->renderFile('/var/www/sites/...', Array, true)
+#16 /var/www/sites/yiitest.com/public_html/protected/controllers/SiteController.php(32): CController->render('index')
+#17 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#18 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#19 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#20 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('')
+#22 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#23 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#24 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#25 {main}
+REQUEST_URI=/
+---
+2013/08/05 09:57:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 09:57:55 [error] [exception.CException] exception 'CException' with message 'Property "AuthWebUser.admins" is not defined.' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CComponent.php:173
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/auth/CWebUser.php(154): CComponent->__set('admins', Array)
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/YiiBase.php(220): CWebUser->__set('admins', Array)
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CModule.php(386): YiiBase::createComponent(Array)
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CModule.php(103): CModule->getComponent('user')
+#4 /var/www/sites/yiitest.com/public_html/protected/views/layouts/main.php(35): CModule->__get('user')
+#5 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(126): require('/var/www/sites/...')
+#6 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/sites/...', Array, true)
+#7 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/var/www/sites/...', Array, true)
+#8 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#9 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#10 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(206): COutputProcessor->run()
+#11 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#12 /var/www/sites/yiitest.com/public_html/protected/views/layouts/column1.php(6): CBaseController->endContent()
+#13 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(126): require('/var/www/sites/...')
+#14 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/sites/...', Array, true)
+#15 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(784): CBaseController->renderFile('/var/www/sites/...', Array, true)
+#16 /var/www/sites/yiitest.com/public_html/protected/controllers/SiteController.php(32): CController->render('index')
+#17 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#18 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#19 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#20 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('')
+#22 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#23 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#24 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#25 {main}
+REQUEST_URI=/
+---
+2013/08/05 09:57:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 09:58:21 [error] [exception.CException] exception 'CException' with message 'Property "AuthWebUser.admins" is not defined.' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CComponent.php:173
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/auth/CWebUser.php(154): CComponent->__set('admins', Array)
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/YiiBase.php(220): CWebUser->__set('admins', Array)
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CModule.php(386): YiiBase::createComponent(Array)
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CModule.php(103): CModule->getComponent('user')
+#4 /var/www/sites/yiitest.com/public_html/protected/views/layouts/main.php(35): CModule->__get('user')
+#5 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(126): require('/var/www/sites/...')
+#6 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/sites/...', Array, true)
+#7 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/var/www/sites/...', Array, true)
+#8 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div id="conten...')
+#9 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div id="conten...')
+#10 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(206): COutputProcessor->run()
+#11 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#12 /var/www/sites/yiitest.com/public_html/protected/views/layouts/column1.php(6): CBaseController->endContent()
+#13 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(126): require('/var/www/sites/...')
+#14 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/sites/...', Array, true)
+#15 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(784): CBaseController->renderFile('/var/www/sites/...', Array, true)
+#16 /var/www/sites/yiitest.com/public_html/protected/controllers/SiteController.php(32): CController->render('index')
+#17 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#18 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#19 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#20 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#21 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('')
+#22 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#23 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#24 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#25 {main}
+REQUEST_URI=/
+---
+2013/08/05 09:58:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 10:00:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 10:00:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 10:00:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:14:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:16:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:16:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:17:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:17:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:19:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:19:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:31:13 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yiitest.Rights' doesn't exist. The SQL statement executed was: SELECT COUNT(*) FROM Rights.
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/components/RInstaller.php (180)
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/controllers/InstallController.php (43)
+in /var/www/sites/yiitest.com/public_html/index.php (12)
+2013/08/05 13:31:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:31:39 [error] [exception.CDbException] exception 'CDbException' with message 'Active record "User" is trying to select an invalid column "user.lastvisit_at". Note, the column must exist in the table or be an expression with alias.' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/db/ar/CActiveFinder.php:917
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/db/ar/CActiveFinder.php(1208): CJoinElement->getColumnSelect(Array)
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/db/ar/CActiveFinder.php(418): CJoinQuery->__construct(Object(CJoinElement), Object(CDbCriteria))
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/db/ar/CActiveFinder.php(68): CJoinElement->find(Object(CDbCriteria))
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/db/ar/CActiveRecord.php(1302): CActiveFinder->query(Object(CDbCriteria), false)
+#4 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/db/ar/CActiveRecord.php(1465): CActiveRecord->query(Object(CDbCriteria))
+#5 /var/www/sites/yiitest.com/public_html/protected/modules/user/components/UserIdentity.php(27): CActiveRecord->findByAttributes(Array)
+#6 /var/www/sites/yiitest.com/public_html/protected/modules/user/models/UserLogin.php(52): UserIdentity->authenticate()
+#7 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/validators/CInlineValidator.php(42): UserLogin->authenticate('password', Array)
+#8 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/validators/CValidator.php(213): CInlineValidator->validateAttribute(Object(UserLogin), 'password')
+#9 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CModel.php(159): CValidator->validate(Object(UserLogin), NULL)
+#10 /var/www/sites/yiitest.com/public_html/protected/modules/user/controllers/LoginController.php(19): CModel->validate()
+#11 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/actions/CInlineAction.php(49): LoginController->actionLogin()
+#12 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#13 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#14 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('')
+#16 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('user/login')
+#17 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#18 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#19 {main}
+REQUEST_URI=/user/login
+HTTP_REFERER=http://yiitest.com/user/login
+---
+2013/08/05 13:31:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:32:10 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yiitest.Rights' doesn't exist. The SQL statement executed was: SELECT COUNT(*) FROM Rights.
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/components/RInstaller.php (180)
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/controllers/InstallController.php (43)
+in /var/www/sites/yiitest.com/public_html/index.php (12)
+2013/08/05 13:32:10 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1217 Cannot delete or update a parent row: a foreign key constraint fails. The SQL statement executed was: drop table if exists AuthItem.
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/components/RInstaller.php (105)
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/controllers/InstallController.php (90)
+in /var/www/sites/yiitest.com/public_html/index.php (12)
+2013/08/05 13:32:10 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yiitest.Rights' doesn't exist. The SQL statement executed was: SELECT COUNT(*) FROM Rights.
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/components/RInstaller.php (180)
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/controllers/InstallController.php (43)
+in /var/www/sites/yiitest.com/public_html/index.php (12)
+2013/08/05 13:32:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:33:09 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yiitest.Rights' doesn't exist. The SQL statement executed was: SELECT COUNT(*) FROM Rights.
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/components/RInstaller.php (180)
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/controllers/InstallController.php (43)
+in /var/www/sites/yiitest.com/public_html/index.php (12)
+2013/08/05 13:33:09 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1217 Cannot delete or update a parent row: a foreign key constraint fails. The SQL statement executed was: drop table if exists AuthItem.
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/components/RInstaller.php (105)
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/controllers/InstallController.php (90)
+in /var/www/sites/yiitest.com/public_html/index.php (12)
+2013/08/05 13:33:10 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yiitest.Rights' doesn't exist. The SQL statement executed was: SELECT COUNT(*) FROM Rights.
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/components/RInstaller.php (180)
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/controllers/InstallController.php (43)
+in /var/www/sites/yiitest.com/public_html/index.php (12)
+2013/08/05 13:33:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:34:05 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'yiitest.AuthItem' doesn't exist. The SQL statement executed was: SELECT COUNT(*) FROM AuthItem.
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/components/RInstaller.php (180)
+in /var/www/sites/yiitest.com/public_html/protected/modules/rights/controllers/InstallController.php (43)
+in /var/www/sites/yiitest.com/public_html/index.php (12)
+2013/08/05 13:34:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:34:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:34:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:34:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:34:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:34:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:34:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:35:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:35:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:35:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:35:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "users".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('users')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/users
+---
+2013/08/05 13:35:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:36:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:37:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:37:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/authItem...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/authItem/rights.css
+HTTP_REFERER=http://yiitest.com/rights/authItem/roles
+---
+2013/08/05 13:37:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:37:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/assignme...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/assignment/rights.css
+HTTP_REFERER=http://yiitest.com/rights/assignment/view
+---
+2013/08/05 13:37:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:37:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/rights.css
+HTTP_REFERER=http://yiitest.com/rights
+---
+2013/08/05 13:37:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:37:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/authItem...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/authItem/rights.css
+HTTP_REFERER=http://yiitest.com/rights/authItem/permissions
+---
+2013/08/05 13:37:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:37:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/assignme...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/assignment/rights.css
+HTTP_REFERER=http://yiitest.com/rights/assignment/view
+---
+2013/08/05 13:37:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:37:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:37:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/assignme...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/assignment/rights.css
+HTTP_REFERER=http://yiitest.com/rights/assignment/view
+---
+2013/08/05 13:37:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:37:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:37:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:37:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "rights/rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/rights.c...')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/rights/rights.css
+HTTP_REFERER=http://yiitest.com/rights/
+---
+2013/08/05 13:37:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:38:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/authItem...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/authItem/rights.css
+HTTP_REFERER=http://yiitest.com/rights/authItem/operations
+---
+2013/08/05 13:38:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:38:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/authItem...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/authItem/rights.css
+HTTP_REFERER=http://yiitest.com/rights/authItem/tasks
+---
+2013/08/05 13:38:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:38:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/authItem...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/authItem/rights.css
+HTTP_REFERER=http://yiitest.com/rights/authItem/roles
+---
+2013/08/05 13:38:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:38:47 [error] [exception.CException] exception 'CException' with message 'Invalid authorization item type.' in /var/www/sites/yiitest.com/public_html/protected/modules/rights/components/Rights.php:98
+Stack trace:
+#0 /var/www/sites/yiitest.com/public_html/protected/modules/rights/views/authitem/create.php(3): Rights::getAuthItemTypeName('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(126): require('/var/www/sites/...')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/sites/...', Array, true)
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(869): CBaseController->renderFile('/var/www/sites/...', Array, true)
+#4 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(782): CController->renderPartial('create', Array, true)
+#5 /var/www/sites/yiitest.com/public_html/protected/modules/rights/controllers/AuthitemController.php(299): CController->render('create', Array)
+#6 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/actions/CInlineAction.php(49): AuthItemController->actionCreate()
+#7 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#9 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#10 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(291): CFilterChain->run()
+#14 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('create')
+#16 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/authItem...')
+#17 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#18 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#19 {main}
+REQUEST_URI=/rights/authItem/create/type/rights.css
+HTTP_REFERER=http://yiitest.com/rights/authItem/create/type/2
+---
+2013/08/05 13:38:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:38:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/authItem...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/authItem/rights.css
+HTTP_REFERER=http://yiitest.com/rights/authItem/roles
+---
+2013/08/05 13:38:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:38:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/assignme...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/assignment/rights.css
+HTTP_REFERER=http://yiitest.com/rights/assignment/view
+---
+2013/08/05 13:38:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:44:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:44:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:45:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:45:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:45:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:45:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:45:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:45:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:45:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:45:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:45:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:46:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:46:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:46:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:46:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:55:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "roles".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('roles')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/roles
+---
+2013/08/05 13:55:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:55:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:55:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "rights/rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/rights.c...')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/rights/rights.css
+HTTP_REFERER=http://yiitest.com/rights/
+---
+2013/08/05 13:55:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:55:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/authItem...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/authItem/rights.css
+HTTP_REFERER=http://yiitest.com/rights/authItem/tasks
+---
+2013/08/05 13:55:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:55:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/authItem...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/authItem/rights.css
+HTTP_REFERER=http://yiitest.com/rights/authItem/tasks
+---
+2013/08/05 13:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:55:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/authItem...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/authItem/rights.css
+HTTP_REFERER=http://yiitest.com/rights/authItem/operations
+---
+2013/08/05 13:55:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:55:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/authItem...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/authItem/rights.css
+HTTP_REFERER=http://yiitest.com/rights/authItem/roles
+---
+2013/08/05 13:55:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:55:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/authItem...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/authItem/rights.css
+HTTP_REFERER=http://yiitest.com/rights/authItem/permissions
+---
+2013/08/05 13:55:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 13:55:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/assignme...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/assignment/rights.css
+HTTP_REFERER=http://yiitest.com/rights/assignment/view
+---
+2013/08/05 13:55:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0.tar/yii-1.1.13.e9e4a0/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 14:21:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "rights.css".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/web/CController.php(270): CController->missingAction('rights.css')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(282): CController->run('rights.css')
+#2 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('rights/assignme...')
+#3 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#5 {main}
+REQUEST_URI=/rights/assignment/rights.css
+HTTP_REFERER=http://yiitest.com/rights/assignment/view
+---
+2013/08/05 14:21:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 14:21:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 14:21:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/08/05 14:21:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/sites/yiitest.com/yii-1.1.13.e9e4a0/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/sites/yiitest.com/public_html/index.php(12): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
